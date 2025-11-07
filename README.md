@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://crissyarp.github.io/.github/dash">  
+<a href="https://amapolalavi.github.io/.github/dash">  
 <img src="https://img.shields.io/badge/GET_Dash-darkgreen?style=for-the-badge&logo=apple" alt="GET Dash">  
 </a>  
 </div>  
